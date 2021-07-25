@@ -20,13 +20,19 @@
 
 ![image](https://user-images.githubusercontent.com/32880198/126912274-be81c136-c91c-450d-b812-dc673e7d18bd.png)
 
+6. selected "load unpacked" 
+
+![image](https://user-images.githubusercontent.com/32880198/126912981-6e33c7d8-98a3-4d80-8648-4f9a4da8b8a8.png)
+
+7. select src folder (where the manifest is located)
+8.
 now - you have to see :
 ![image](https://user-images.githubusercontent.com/32880198/126912315-e4774f4a-e29f-47da-95f7-c6aa295fe7b6.png)
 
 and in the bookmark - you see: 
 ![image](https://user-images.githubusercontent.com/32880198/126912331-c2dd466e-31f8-46fa-a96a-c9353e352d1d.png)
 
-6. insert link to validation:
+9. insert link to validation:
 
 ![image](https://user-images.githubusercontent.com/32880198/126912340-b15d946e-15a6-40bd-9dd0-4aa52c22c9d2.png)
 
